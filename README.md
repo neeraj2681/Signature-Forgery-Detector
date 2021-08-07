@@ -1,5 +1,4 @@
 # Signature-Forgery-Detector
-<b>Caution: The code is still in progress. Clone at your own risk.</b>
 
 Detects if a given handwritten signature is authentic or not
 
