@@ -1,5 +1,6 @@
 # Signature-Forgery-Detector
 <b>Caution: The code is still in progress. Clone at your own risk.</b>
+
 Detects if a given handwritten signature is authentic or not
 
 For a given handwritten signature, the model tries to depict the class(either forged or genuine) based on the training phase.
